@@ -3,5 +3,4 @@ First app I made
 
 Just a simple Stopwatches.
 
-
-![](StopWatch/StopWatch/Images/StopWatch.png)
+<img src="StopWatch/StopWatch/Images/StopWatch.png" width="200" height="450">
